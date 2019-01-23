@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using GitDotNet.Models;
 
 namespace GitDotNet.Data
 {
@@ -12,5 +13,6 @@ namespace GitDotNet.Data
             : base(options)
         {
         }
+        public DbSet<GitDotNet.Models.Employee> Employee { get; set; }
     }
 }

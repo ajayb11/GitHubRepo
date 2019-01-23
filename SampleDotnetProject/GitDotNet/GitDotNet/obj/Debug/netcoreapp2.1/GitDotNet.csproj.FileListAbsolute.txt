@@ -33,3 +33,8 @@ D:\Test Clone\SampleDotnetProject\GitDotNet\GitDotNet\obj\Debug\netcoreapp2.1\Gi
 D:\Test Clone\SampleDotnetProject\GitDotNet\GitDotNet\obj\Debug\netcoreapp2.1\GitDotNet.dll
 D:\Test Clone\SampleDotnetProject\GitDotNet\GitDotNet\obj\Debug\netcoreapp2.1\GitDotNet.pdb
 D:\Test Clone\SampleDotnetProject\GitDotNet\GitDotNet\obj\Debug\netcoreapp2.1\GitDotNet.csproj.CopyComplete
+D:\Test Clone\SampleDotnetProject\GitDotNet\GitDotNet\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Create.g.cshtml.cs
+D:\Test Clone\SampleDotnetProject\GitDotNet\GitDotNet\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Delete.g.cshtml.cs
+D:\Test Clone\SampleDotnetProject\GitDotNet\GitDotNet\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Details.g.cshtml.cs
+D:\Test Clone\SampleDotnetProject\GitDotNet\GitDotNet\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Edit.g.cshtml.cs
+D:\Test Clone\SampleDotnetProject\GitDotNet\GitDotNet\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Index.g.cshtml.cs
