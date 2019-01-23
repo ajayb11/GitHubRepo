@@ -14,5 +14,6 @@ namespace GitDotNet.Data
         {
         }
         public DbSet<GitDotNet.Models.Employee> Employee { get; set; }
+        public DbSet<GitDotNet.Models.Person> Person { get; set; }
     }
 }
